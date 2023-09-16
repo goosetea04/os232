@@ -17,6 +17,3 @@ ZCZC W02 10 L00 GitHub related
 ZCZC W02 10 L01 GitHub Pages related
 ZCZC W02 10 L02 QUIZ
 ZCZC W02 60 L03 Weekly Assignments
-ZCZC W02 GitHub41 
-ZCZC W02 GitHub60 
-ZCZC W02 GitHub164 
