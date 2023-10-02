@@ -21,5 +21,11 @@ Here, readers can find out how files are stored on the linux operating system. I
 [Six](https://dev.to/arthvhanesa/understanding-linux-file-system-an-overview-of-essential-directories-2clp)
 This is an important website that lists down important directories in Linux. When we are making our own linux system from scratch, we may need this website as a reference.
 
+[Seven](https://www.linode.com/docs/guides/benefits-of-linux/)
+This is a website that tells us the importance of Linux as an operating system and why it is crucial to Computer Science. If people are confused about why Linux is important, they should check this out. 
+
+[Eight](https://www.freecodecamp.org/news/why-use-linux-11-reasons-linux-is-awesome/)
+Similar to the link before this, this link aims to tell us what is most important about Linux. Since there are alot of pupils still confused as to why we should learn Linux, I believe this is a good link to include.
+
 <br>
 <hr>
