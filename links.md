@@ -30,7 +30,7 @@ Similar to the link before this, this link aims to tell us what is most importan
 [Nine](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
 This site provides a clear overview of how memory is managed in the OS. For the upcoming OS lessons, students can get an idea of the lesson by following this site.
 
-[Nine](https://www.computerhope.com/jargon/m/memory.htm)
+[Ten](https://www.computerhope.com/jargon/m/memory.htm)
 To get a deeper understanding of what memory is, students can look to this website. The site explains in theory what memory is.
 <br>
 <hr>
