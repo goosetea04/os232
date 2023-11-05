@@ -32,5 +32,11 @@ This site provides a clear overview of how memory is managed in the OS. For the 
 
 [Ten](https://www.computerhope.com/jargon/m/memory.htm)
 To get a deeper understanding of what memory is, students can look to this website. The site explains in theory what memory is.
+
+[Eleven](https://www.geeksforgeeks.org/fork-system-call/)
+This tells students what the fork system call is. This also informs students on its uses.
+
+[Twelve](https://datacadamia.com/os/linux/shared_memory)
+Similarly, this tells students what is meant by shared memory in the context of linux. This is important since it is the crux of this week's topic.
 <br>
 <hr>
