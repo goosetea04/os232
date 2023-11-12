@@ -38,5 +38,11 @@ This tells students what the fork system call is. This also informs students on 
 
 [Twelve](https://datacadamia.com/os/linux/shared_memory)
 Similarly, this tells students what is meant by shared memory in the context of linux. This is important since it is the crux of this week's topic.
+
+[Thirteen](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+This simple website teaches students about Deadlock in Operating Systems. It is useful since that is the lesson we are learning this week,
+
+[Fourteen](https://www.baeldung.com/cs/os-deadlock)
+This is another example of Deadlocks in operating Systems. Additionally, it teaches us how to prevent them. 
 <br>
 <hr>
