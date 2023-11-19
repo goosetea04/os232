@@ -43,6 +43,12 @@ Similarly, this tells students what is meant by shared memory in the context of 
 This simple website teaches students about Deadlock in Operating Systems. It is useful since that is the lesson we are learning this week,
 
 [Fourteen](https://www.baeldung.com/cs/os-deadlock)
-This is another example of Deadlocks in operating Systems. Additionally, it teaches us how to prevent them. 
+This is another example of Deadlocks in operating Systems. Additionally, it teaches us how to prevent them.
+
+[Fifteen](https://en.wikipedia.org/wiki/Linux_From_Scratch)
+This gives readers insight into what LFS is as well as its intended uses. It also describes the history of LFS and its current maintainance.
+
+[Sixteen](https://www.makeuseof.com/tag/create-operating-system-linux-scratch-linux-si/)
+This gives readers reasons as to why they might want to learn LFS. This also tells students some steps to perform LFS.
 <br>
 <hr>
