@@ -50,5 +50,11 @@ This gives readers insight into what LFS is as well as its intended uses. It als
 
 [Sixteen](https://www.makeuseof.com/tag/create-operating-system-linux-scratch-linux-si/)
 This gives readers reasons as to why they might want to learn LFS. This also tells students some steps to perform LFS.
+
+[Seventeen](https://www.linuxfromscratch.org/blfs/view/svn/index.html)
+This teaches kids some basics on lfs. This also teaches beyond LFS
+
+[Eighteen](https://www.techradar.com/best/best-linux-distros)
+This gives a short list of all distros in linux. LFS should be one of them as well.
 <br>
 <hr>
